@@ -2,6 +2,7 @@
 Mods:
 - MechJeb 2.9.2
 - Tundra Exploration (Y sus dependencias)
+
 Notas:
 - Establecer la barcaza como objetivo antes de despegar.
 - Controlar la parte 'Interstage'
@@ -11,6 +12,9 @@ Notas:
 3. Cuando el cohete se encuentre a 40°, girar automáticamente hacia 45° (Continuar el procedimiento del paso 2).
 4. Continuar a 45° hasta alcanzar una distancia de 5 km de la barcaza.
 5. Separar la etapa 1.
+6. Guardar la partida con F5.
+7. Saltear a la Aproximación, o continuar el vuelo
+8. _(Presionar F9)_
 
 ## Aproximación, Fase 1
 1. Desplegar las aletas de rejilla (_"Grid Fins"_, grupo de frenos)
@@ -30,6 +34,7 @@ Notas:
 ![image](https://user-images.githubusercontent.com/73393487/231914987-cfbc9d1c-c728-4bc5-9d9e-171628ab0632.png)
 
 ![image](https://user-images.githubusercontent.com/73393487/231915316-271ef873-68ed-4271-9bc7-3f18a5c04b30.png)
+
 (Objetivo)
 
 ### ¡Importante!
