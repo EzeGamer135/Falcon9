@@ -38,9 +38,11 @@ Notas:
 (Objetivo)
 
 ### ¡Importante!
-_Presionar 'S' ("Arriba") o 'W' ("Abajo") para ajustar latitud.
-Es recomendable configurar el motor para los 3 motores de aterrizaje, presionando "Next Engine Mode" en el menú emergente
-Recordar el paso 1 durante el descenso._
+_Presionar 'S' ("Arriba") o 'W' ("Abajo") para ajustar latitud._
+
+_Es recomendable configurar el motor para los 3 motores de aterrizaje, presionando "Next Engine Mode" en el menú emergente._
+
+_Recordar el paso 1 durante el descenso._
 
 2. Ajustar la nave de modo que la diferencia de distancia sea 500 metros. 
 
