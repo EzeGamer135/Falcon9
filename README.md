@@ -6,7 +6,7 @@ Mods:
 
 Notas:
 - Establecer la barcaza como objetivo antes de despegar.
-  - (Tener una barcaza establecida al menos 20 km de la plataforma)
+  - (Tener una barcaza establecida al menos 5 km de la plataforma)
 - Controlar la parte 'Interstage'
 ## Despegue
 1. Lanzar Falcon 9, girar 10 grados cada 100 m/s.
