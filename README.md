@@ -2,6 +2,7 @@
 Mods:
 - MechJeb 2.9.2
 - Tundra Exploration (Y sus dependencias)
+- KK's SpaceX Pack (Para la barcaza)
 
 Notas:
 - Establecer la barcaza como objetivo antes de despegar.
